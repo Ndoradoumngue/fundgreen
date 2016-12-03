@@ -6,7 +6,7 @@ data/
 # translation binary files
 *.mo
 # ignore local config file
-/local-settings.php
+local-settings.php
 # IDE project folder
 /.idea
 nbproject/
